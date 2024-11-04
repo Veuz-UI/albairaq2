@@ -3527,7 +3527,6 @@ rs-slide a:hover{
 }
 
 
-
 .section-lg,.ihbox-section_one,.energy-counter_two {
 	padding: 80px 0px !important;
 }
@@ -3626,6 +3625,9 @@ rs-slide a:hover{
 	}
 	.pbmit-marquee-effect-style-1 .pbmit-element-title:before {
 		font-size: 80px;
+	}
+	.energy-counter_two  .img-wapper-two:first-child{
+		margin-top:35px;
 	}
 }
 
